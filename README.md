@@ -4,6 +4,8 @@
 - Ultrasound Signal Processing using Unsupervised Machine Learning &rarr; [**Ultrasound Signal Processing**](https://github.com/jacobkrit/Ultrasound-Signal-Processing) | Languages: **Python** | Year: **2021**
 - Signal Processing Models needed for Bioengineering research &rarr; [**Signal Processing**](https://github.com/jacobkrit/Signal-Processing) | Languages: **Python** | Year: **2022**
 - Brain Signal Prediction Model using Regression Analysis &rarr; [**Brain Machine Interface**](https://github.com/jacobkrit/Brain-Machine-Interface-Team-35) | Languages: **MatLab** | Year: **2020**
+- Fluorescence Image Analysis using Statistical Models or other Python Libraries &rarr; [**Fluorescence Image Analysis**](https://github.com/jacobkrit/Fluorescence-Image-Analysis) | Languages: **Python** | Year: **2020**
+- EEG Signal Processing interesting libraries &rarr; [**EEG**](https://github.com/CAMMS-Duke-University/Serial-Communication-Server) | Languages: **Python** | Year: **2022**
 
 ######
 ### Data Engineering 🐫 📊 Repositories:
@@ -20,6 +22,9 @@
 - Linux PyVisa &rarr; [**PyVISA**](https://github.com/CAMMS-Duke-University/PyVISA) | Languages: **Python** | Year: **2015**
 - Serial Port reading and storing in MongoDB using Docker Compose &rarr; [**Data Transfer Storage**](https://github.com/CAMMS-Duke-University/Data-Transfer-Storage) | Languages: **Python**; **Shell**; **Docker** | Year: **2015**
 - GPIB & Linux Communication &rarr; [**gpibtool**](https://github.com/jakeogh/gpibtool) | Languages: **Python**; **Shell** | Year: **2022**
+- Scientistic Instrument Operation using PyMeasure &rarr; [**Source-Meter-PyMeasure**](https://github.com/CAMMS-Duke-University/Source-Meter-PyMeasure) | Languages: **Python**; **Shell** | Year: **2023**
+- Scientistic Instrument Operation using PyVisa &rarr; [**Source-Meter-PyVISA**](https://github.com/CAMMS-Duke-University/Source-Meter-PyVISA) | Languages: **Python**; **Shell** | Year: **2022**
+- Serial Communication using PySerial &rarr; [**Serial-Communication-Server**](https://github.com/CAMMS-Duke-University/Serial-Communication-Server) | Languages: **Python**; **Shell** | Year: **2022**
 
 ######
 ### Mathematics & Applied Science Engineering ✏ 👨‍🏫 Repositories:
